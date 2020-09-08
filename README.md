@@ -12,10 +12,10 @@
 - ⚡ Fun fact: I love React but I think React hates me.
 
 <h4>Languages and Tools<h4>
-<code><img src="https://img.icons8.com/nolan/64/css-filetype.png" /></code>
-<code><img src="https://img.icons8.com/nolan/64/html-5.png" /></code>
-<code><img src="https://img.icons8.com/nolan/64/javascript.png" /></code>
-<code><img src="https://img.icons8.com/nolan/64/react-native.png" /></code>
-<code><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/></code>
-<code><img src="https://img.icons8.com/nolan/64/github.png"/></code>
-<code><img src="https://img.icons8.com/nolan/64/web-design.png"/></code>
+<code><img src="https://img.icons8.com/nolan/32/css-filetype.png" /></code>
+<code><img src="https://img.icons8.com/nolan/32/html-5.png" /></code>
+<code><img src="https://img.icons8.com/nolan/32/javascript.png" /></code>
+<code><img src="https://img.icons8.com/nolan/32/react-native.png" /></code>
+<code><img src="https://img.icons8.com/nolan/32/visual-studio-code-2019.png"/></code>
+<code><img src="https://img.icons8.com/nolan/32/github.png"/></code>
+<code><img src="https://img.icons8.com/nolan/32/web-design.png"/></code>
