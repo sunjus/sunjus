@@ -15,4 +15,7 @@
 <code><img src="https://img.icons8.com/nolan/64/css-filetype.png" /></code>
 <code><img src="https://img.icons8.com/nolan/64/html-5.png" /></code>
 <code><img src="https://img.icons8.com/nolan/64/javascript.png" /></code>
-<code> <img src="https://img.icons8.com/nolan/64/react-native.png" /></code>
+<code><img src="https://img.icons8.com/nolan/64/react-native.png" /></code>
+<code><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/></code>
+<code><img src="https://img.icons8.com/nolan/64/github.png"/></code>
+<code><img src="https://img.icons8.com/nolan/64/web-design.png"/></code>
