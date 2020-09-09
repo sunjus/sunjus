@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunjus%2Fhit-counter&count_bg=%23A550BC&title_bg=%23D4A6F5&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hello World 👋
 
 
@@ -20,3 +22,5 @@
 <code><img src="https://img.icons8.com/nolan/32/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/nolan/32/github.png"/></code>
 <code><img src="https://img.icons8.com/nolan/32/web-design.png"/></code>
+ 
+
