@@ -12,7 +12,7 @@
 - 💬 Ask me about anything you want to know...
 - 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/ariana-sunju-s-6800a51b2/)](https://www.linkedin.com/in/ariana-sunju-s-6800a51b2/) ,   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunju.shin1108@gmail.com.com)](mailto:sunju.shin1108@gmail.com)
 - 😄 Pronouns: she | her 
-- ⚡ Fun fact: I love React but I think React hates me.
+- ⚡ Fun fact.
 
 <h4>Languages and Tools<h4>
 <code><img src="https://img.icons8.com/nolan/32/css-filetype.png" /></code>
