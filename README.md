@@ -3,7 +3,7 @@
 ### Hello there! 👋
 
 
-**I'm a Web Developer** 
+**I'm a fullstack Developer** 
 
 - 🔭 I’m currently working on #fullstack project.
 - 🌱 I’m currently learning React, node.js, MongoDB.
