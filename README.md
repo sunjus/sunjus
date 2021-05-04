@@ -3,7 +3,7 @@
 ### Hello there! 👋
 
 
-**I'm a Web Developer** 
+**I'm a Front-end Web Developer** 
 
 - 🔭 I’m currently working on #fullstack project.
 - ✨ I'm looking for opportunities within Front-end web development.
