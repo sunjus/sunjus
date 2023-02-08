@@ -5,7 +5,7 @@
 
 **I'm a Front-end Web Developer** 
 
-- 🔭 I’m currently working on #review page project using React and Firebase.
+- 🔭 I’m currently working on #a project using React and Firebase.
 - ✨ I'm looking for opportunities within Front-end web development.
 - ❤️ I love to learn and contribute in any and every possible way.
 - 💬 Ask me about anything you want to know...
